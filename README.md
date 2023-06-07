@@ -6,5 +6,5 @@ para inicializar el proyecto se utiliza
 php artisan serve
 npm run watch
 para iniciar seccion usar el usuario:
-username: juansebastian065@gmail.com
+username:  karenandrea.m.t@gmail.com
 password: 123456
